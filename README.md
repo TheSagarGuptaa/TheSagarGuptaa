@@ -1,16 +1,37 @@
-### Hi there 👋
+**Hello, I am Sagar Gupta**
 
-<!--
-**thesagarguptaa/thesagarguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Here are some ideas to get you started:
+- ♂️ Pronouns (He/His/Him)
+- 📍 I live in Delhi, India
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NodeJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend
+
+- Responsive and intuitive user interface
+- React components for rendering and managing UI elements
+- Integration with backend API for data retrieval and manipulation
+- Routing and navigation using React Router
+- State management using Redux or Context API
+- Form handling and validation
+- API error handling and display
+
+## Backend
+
+- User authentication and authorization using JWT (JSON Web Tokens)
+- CRUD (Create, Read, Update, Delete) operations for managing data
+- Integration with MongoDB for data storage
+- Express.js middleware for handling requests and routing
+- Error handling and validation using middleware
+
+- My Tech Stack: MongoDB, Express.js, React, Node.js
+- Languages I know: C/C++ , SQL , MongoDB , HTML, CSS , JavaScript
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+- My socials are listed below
+  - LinkedIn at [thesagargupta](https://www.linkedin.com/in/thesagarguptaa/)
+  - Instagram at [sagarguptaa](https://www.instagram.com/sagarguptaa___/)
+  - Mail me at **sg4270173@gmail.com** regarding any work or if you just wanna connect
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
